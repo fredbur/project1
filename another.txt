@@ -5,3 +5,5 @@ BLAH
 
 3 Third LINE THREE
 
+New line
+
